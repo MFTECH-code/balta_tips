@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendoArquivos", "LendoArquivos\LendoArquivos.csproj", "{E763E3FF-E6C1-4A28-8913-69F007E7873A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitOperators", "ImplicitOperators\ImplicitOperators.csproj", "{EF89532D-B926-4877-B373-47E239A7F3EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E763E3FF-E6C1-4A28-8913-69F007E7873A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E763E3FF-E6C1-4A28-8913-69F007E7873A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E763E3FF-E6C1-4A28-8913-69F007E7873A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF89532D-B926-4877-B373-47E239A7F3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF89532D-B926-4877-B373-47E239A7F3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF89532D-B926-4877-B373-47E239A7F3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF89532D-B926-4877-B373-47E239A7F3EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
