@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendoArquivos", "LendoArqui
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitOperators", "ImplicitOperators\ImplicitOperators.csproj", "{EF89532D-B926-4877-B373-47E239A7F3EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulandoArquivos", "ManipulandoArquivos\ManipulandoArquivos.csproj", "{CD9EECBD-36E6-4983-9C5F-A5EFE0933027}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EF89532D-B926-4877-B373-47E239A7F3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF89532D-B926-4877-B373-47E239A7F3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF89532D-B926-4877-B373-47E239A7F3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9EECBD-36E6-4983-9C5F-A5EFE0933027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9EECBD-36E6-4983-9C5F-A5EFE0933027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9EECBD-36E6-4983-9C5F-A5EFE0933027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9EECBD-36E6-4983-9C5F-A5EFE0933027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
